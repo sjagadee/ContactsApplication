@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contact App</string>
+
+    <string name="person_name">Name</string>
+    <string name="home_phone">(000)000-0000</string>
+    <string name="phone">Phone</string>
+    <string name="company">Company</string>
+    <string name="address">Address</string>
+    <string name="addr1">Addr1</string>
+    <string name="addr2">Addr2</string>
+    <string name="addr3">Addr3</string>
+    <string name="dob">Birthday</string>
+    <string name="email">Email</string>
+
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="mobile">Mobile</string>
+    <string name="edit">Edit</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="my_location">Goto My Location</string>
+    <string name="my_web">Goto My Web Site</string>
+
+</resources>
